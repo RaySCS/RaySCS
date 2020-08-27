@@ -1,5 +1,5 @@
 ## Hi Everybody! 👋
-My name is <a href="https://rayaansiddiqi.com">Rayaan Siddiqi</a> and am a 16 year old rising senior in high school who loves the world of Computer Science from learning📚 to coding🖥️ actual applications. Throughout the past 4 years, I have programmed in various languages to make different projects from responsive web apps🌐 to mobile applications📱.
+My name is <a href="https://rayaansiddiqi.com">Rayaan Siddiqi</a> and am a 17 year old senior in high school who loves the world of Computer Science from learning📚 to coding🖥️ actual applications. Throughout the past 4 years, I have programmed in various languages to make different projects from responsive web apps🌐 to mobile applications📱.
 
 ### More importantly than just making cool projects by myself, I have a strong passion for teaching and helping others, here are some of the unique things I am involved in to meet this goal⭐:
 - Developing & Teaching👨‍🏫 over <a href = "https://rayaansiddiqi.com/techbytesPage.html">100 hours of Computer Science</a> curriculum through various local libraries.
