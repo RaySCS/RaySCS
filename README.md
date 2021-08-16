@@ -16,6 +16,8 @@ Over the past four years, I have developed a deep passion for learning📚 and c
 
 <b> Most Recently</b>: I became a best-selling author📖 on Amazon through a realistic-fiction novel I published in January, 2021 about a student's journey throughout the world of high school and onto the path of technological innovation. Learn more <a href="https://author.rayaansiddiqi.com"> here. </a>
 
+<b> Currently: </b> I am learning and developing projects in C++.
+
 # Notable Projects
 
 Look through some of the work I have developed!
