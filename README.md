@@ -10,13 +10,13 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=RaySCS.RaySCS)
 
-I am an incoming freshman in the <b>B.S. Computer Science GPPA Program </b> the University of Illinois at Chicago. 
+I am a student at the University of Illinois at Chicago, pursuing my <b>B.S. in Computer Science </b>. 
 
-Over the past four years, I have developed a deep passion for learning📚 and coding🖥️ applications using computer programming. From responsive web apps🌐 to mobile applications📱 to projects that help my local community, I love exploring the reach of CS.
+Throughout my career, I mainly have worked in web development, mobile application development, and artificial intelligence. This work involved me developing various award winning iOS and Android apps, numerical simulations, and online games. 
 
 <b> Most Recently</b>: I became a best-selling author📖 on Amazon through a realistic-fiction novel I published in January, 2021 about a student's journey throughout the world of high school and onto the path of technological innovation. Learn more <a href="https://author.rayaansiddiqi.com"> here. </a>
 
-<b> Currently: </b> I am learning and developing projects in C++.
+<b> Currently: </b> I am powering my way through a loaded semester of interesting Computer Science classes!
 
 # Notable Projects
 
