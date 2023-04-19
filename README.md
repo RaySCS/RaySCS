@@ -10,7 +10,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=RaySCS.RaySCS)
 
-I am a student at the University of Illinois at Chicago, pursuing my <b>B.S. in Computer Science </b>. 
+I am a student at the University of Illinois at Chicago, pursuing my <b>B.S. in Computer Science </b>. <br> I'm proud to be one of the **youngest upcoming graduates in program history**, as I'm about to complete my degree at just 19 years old in May, 2023.🎓 
+
 
 Throughout my career, I mainly have worked in web development, mobile application development, and artificial intelligence. This work involved me developing various award winning iOS and Android apps, numerical simulations, and online games. 
 
@@ -233,7 +234,7 @@ Look through some of the work I have developed!
 </table>
 
 ### More importantly than just making engaging projects, I have a strong passion for teaching and helping others⭐:
-- Developing & Teaching👨‍🏫 over <a href = "https://rayaansiddiqi.com/techbytesPage.html">500 hours of Computer Science</a> curriculum through various local libraries. Learn more in an <a href="https://www.dailyherald.com/submitted/20200305/library-uses-grant-to-offer-x201ctech-bytesx201d-to-tweens"> interview I had with the Daily Herald about my initiative. </a>
+- Developing & Teaching👨‍🏫 over <a href = "https://rayaansiddiqi.com/techbytesPage.html">2500 hours of Computer Science</a> curriculum through various local libraries. Learn more in an <a href="https://www.dailyherald.com/submitted/20200305/library-uses-grant-to-offer-x201ctech-bytesx201d-to-tweens"> interview I had with the Daily Herald about my initiative. </a>
 - Hosting <a href="http://www.hackthelib.com"> in-person and online hackathons</a> in order to bring together the CS community in unique ways.
 
 
