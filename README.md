@@ -10,7 +10,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=RaySCS.RaySCS)
 
-I am a student at the University of Illinois at Chicago, pursuing my <b>B.S. in Computer Science </b>. <br> I'm proud to be one of the **youngest upcoming graduates in program history**, as I'm about to complete my degree at just 19 years old in May, 2023.🎓 
+I am a student at the University of Illinois Chicago, pursuing my <b>B.S. in Computer Science </b>. 
+
+I'm proud to be one of the **youngest upcoming graduates in program history**, as I'm about to complete my degree at just 19 years old in May, 2023.🎓 
 
 
 Throughout my career, I mainly have worked in web development, mobile application development, and artificial intelligence. This work involved me developing various award winning iOS and Android apps, numerical simulations, and online games. 
