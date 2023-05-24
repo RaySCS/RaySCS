@@ -10,16 +10,12 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=RaySCS.RaySCS)
 
-I am a student at the University of Illinois Chicago, pursuing my <b>B.S. in Computer Science </b>. 
+I'm proud to be one of the **youngest graduates in program history** from the University of Illinois Chicago, as I just completed my B.S. degree in Computer Science at 19 years old in May, 2023.🎓 
 
-I'm proud to be one of the **youngest upcoming graduates in program history**, as I'm about to complete my degree at just 19 years old in May, 2023.🎓 
-
-
-Throughout my career, I mainly have worked in web development, mobile application development, and artificial intelligence. This work involved me developing various award winning iOS and Android apps, numerical simulations, and online games. 
+Throughout my career, I mainly have worked in web development and mobile application development. 
 
 <b> Most Recently</b>: I became a best-selling author📖 on Amazon through a realistic-fiction novel I published in January, 2021 about a student's journey throughout the world of high school and onto the path of technological innovation. Learn more <a href="https://author.rayaansiddiqi.com"> here. </a>
 
-<b> Currently: </b> I am powering my way through a loaded semester of interesting Computer Science classes!
 
 # Notable Projects
 
