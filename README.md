@@ -8,13 +8,13 @@
 [![Book Badge](https://img.shields.io/badge/-📖Author-0088cc?style=flat-square&logo=📖&logoColor=white)](https://author.rayaansiddiqi.com)
 [![Talk Show Badge](https://img.shields.io/badge/-Buzzer2Buzzer-0088cc?style=flat-square&logo=NBA&logoColor=white)](https://buzzer2buzzer.com)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=RaySCS.RaySCS)
+<!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=RaySCS.RaySCS) -->
 
 I'm proud to be one of the **youngest graduates in program history** from the University of Illinois Chicago, as I just completed my B.S. degree in Computer Science at 19 years old in May, 2023.🎓 
 
 Throughout my career, I mainly have worked in web development and mobile application development. 
 
-<b> Most Recently</b>: I became a best-selling author📖 on Amazon through a realistic-fiction novel I published in January, 2021 about a student's journey throughout the world of high school and onto the path of technological innovation. Learn more <a href="https://author.rayaansiddiqi.com"> here. </a>
+<b> Something Cool I did recently</b>: I became a best-selling author📖 on Amazon through a realistic-fiction novel I published in January, 2021 about a student's journey throughout the world of high school and onto the path of technological innovation. Learn more <a href="https://author.rayaansiddiqi.com"> here. </a>
 
 
 # Notable Projects
