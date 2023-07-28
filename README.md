@@ -10,9 +10,9 @@
 
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=RaySCS.RaySCS) -->
 
-I'm proud to be one of the **youngest graduates in program history** from the University of Illinois Chicago, as I just completed my B.S. degree in Computer Science at 19 years old in May, 2023.🎓 
+I'm proud to be a graduate from the University of Illinois Chicago, as I recently <a href="https://cs.uic.edu/news-stories/meet-rayaan-siddiqi-a-19-year-old-cs-graduate/" target="_blank"> completed my B.S. degree in Computer Science. </a> 🎓 
 
-Throughout my career, I mainly have worked in web development and mobile application development. 
+Throughout my career, I mainly have worked in full stack web development and mobile application development. 
 
 <b> Something Cool I did recently</b>: I became a best-selling author📖 on Amazon through a realistic-fiction novel I published in January, 2021 about a student's journey throughout the world of high school and onto the path of technological innovation. Learn more <a href="https://author.rayaansiddiqi.com"> here. </a>
 
