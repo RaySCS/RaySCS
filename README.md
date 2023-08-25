@@ -6,15 +6,15 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-e4405f?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCaq0udcSpQrX2Ajesf7UGmg)
 [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://rayaan-siddiqi.medium.com)
 [![Book Badge](https://img.shields.io/badge/-📖Author-0088cc?style=flat-square&logo=📖&logoColor=white)](https://author.rayaansiddiqi.com)
-[![Talk Show Badge](https://img.shields.io/badge/-Buzzer2Buzzer-0088cc?style=flat-square&logo=NBA&logoColor=white)](https://buzzer2buzzer.com)
 
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=RaySCS.RaySCS) -->
 
-I'm proud to be a graduate from the University of Illinois Chicago, as I recently <a href="https://cs.uic.edu/news-stories/meet-rayaan-siddiqi-a-19-year-old-cs-graduate/" target="_blank"> completed my B.S. degree in Computer Science. </a> 🎓 
+<b>About Me: </b> With over five years of experience as a skilled Software Engineer, I specialize in crafting modern web experiences that captivate users. My toolkit includes React, JavaScript, TypeScript, Node.js, and Redux, enabling me to build dynamic and engaging applications. Proficient in various languages and frameworks, I thrive on adapting to new challenges and consistently aim to make a meaningful impact through my work. Additionally, my journey includes full-stack experience, allowing me to seamlessly bridge the gap between frontend and backend development, delivering comprehensive solutions that resonate with users.
 
-Throughout my career, I mainly have worked in full stack web development and mobile application development. 
+<b>Education: </b> University of Illinois Chicago 🎓 <br>
+<b>Degree: </b> B.S. in Computer Science (Magna Cum Laude) ⭐<br>
 
-<b> Something Cool I did recently</b>: I became a best-selling author📖 on Amazon through a realistic-fiction novel I published in January, 2021 about a student's journey throughout the world of high school and onto the path of technological innovation. Learn more <a href="https://author.rayaansiddiqi.com"> here. </a>
+<b> Something Cool I did recently</b>: I became a best-selling author📖 on Amazon through a realistic-fiction novel I published about a student's journey throughout the world of high school and onto the path of technological innovation. Read the book <a href="https://www.amazon.com/dp/B08Q6SQYKZ/ref=sr_1_4?dchild=1&keywords=Rayaan+Siddiqi&qid=1607614621&sr=8-4"> here. </a>
 
 
 # Notable Projects
